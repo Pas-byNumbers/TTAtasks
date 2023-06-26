@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: rgb(47,207,149);
+background: linear-gradient(90deg, rgba(47,207,149,1) 2%, rgba(83,140,185,1) 33%, rgba(75,71,144,1) 66%, rgba(191,98,91,1) 98%);
+  color:#AB0003;
+  
+}
+
+h1 {
+  color:#1E2952
+}
+p {
+  color:#000000
+}
